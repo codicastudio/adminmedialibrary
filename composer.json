@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminmedialibrary",
+    "name": "codica-studio/adminmedialibrary",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminmedialibrary",
+    "homepage": "https://github.com/codica-studio/adminmedialibrary",
     "license": "MIT",
     "authors": [
         {
