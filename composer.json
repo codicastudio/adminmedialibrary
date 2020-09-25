@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminmedialibrary",
+    "name": "codicastudio/media-library-manager",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminmedialibrary",
+    "homepage": "https://github.com/codicastudio/media-library-manager",
     "license": "MIT",
     "authors": [
         {
@@ -14,9 +14,7 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "laravel/framework": "^8.0",
-        "laravel/nova": "^3.0",
-        "spatie/laravel-medialibrary": "^8.0"
+        "codicastudio/media-library": "^1.0"
     },
     "autoload": {
         "psr-4": {
@@ -33,6 +31,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
